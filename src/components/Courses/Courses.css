@@ -1,0 +1,17 @@
+.courses {
+  list-style: none;
+}
+
+.courses li {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  column-gap: 30px;
+  /* border: 1px solid green; */
+}
+.description {
+  text-align: left;
+}
+
+.details {
+  text-align: left;
+}

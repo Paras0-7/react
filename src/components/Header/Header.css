@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto 50px;
+}
+
+.user {
+  display: flex;
+  gap: 10px;
+}
